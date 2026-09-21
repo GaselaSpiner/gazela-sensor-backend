@@ -1,0 +1,8 @@
+{
+  "name": "gazela-sensor-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend API for Gazela Spiner Sensor",
+  "scripts": {},
+  "dependencies": {}
+}
